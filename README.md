@@ -42,20 +42,20 @@ This document serves as a comprehensive guide to selecting the ideal **Master of
 
 ## Programs of Interest
 
-### Master of Business Administration (MBA)
+### [Master of Business Administration (MBA)](https://en.wikipedia.org/wiki/Master_of_Business_Administration)
 - **Specializations:** International Business, Global Strategy and Supply Chain Management
 
-### Master in International Business (MIB) 
+### [Master in International Business (MIB)](https://en.wikipedia.org/wiki/Master_of_International_Business)
 - **Focus:** Global Markets, Trade, and Business Development
 
-### Master in Marketing
+### [Master in Marketing](https://en.wikipedia.org/wiki/Master_of_Science_in_Marketing)
 - **Specializations:** International Marketing, Digital Strategy
 
-### Master in Management (MiM)
+### [Master in Management (MiM)](https://en.wikipedia.org/wiki/Master_of_Management)
 - **Focus:** Organizational Leadership, Cross-Cultural Management
 
-### Master in Economics
+### [Master of Economics (MEc)](https://en.wikipedia.org/wiki/Master_of_Economics)
 - **Specializations:** International Trade, Development Economics
 
-### Master in Hospitality Management
+### [Master in Hospitality Management](https://en.wikipedia.org/wiki/Hospitality_management_studies)
 - **Focus:** Global Tourism, Luxury Brand Management
