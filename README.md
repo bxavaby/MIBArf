@@ -7,7 +7,7 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 ## Key Considerations
 
-### [1]  Academic Excellence
+### [1] Academic Excellence
 
 - Curriculum: Alignment with career goals.
 
@@ -15,7 +15,7 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 - Reputation: Rankings and alumni achievements.
 
-### [2]  Financial Factors
+### [2] Financial Factors
 
 - Tuition Fees: Cost vs. value.
 
@@ -23,7 +23,7 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 - Living Expenses: Cost of living in host city/country.
 
-### [3]  Cultural Experience
+### [3] Cultural Experience
 
 - Location: Language, lifestyle, and cultural exposure.
 
@@ -31,7 +31,7 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 - Networking Opportunities: Connections with peers and local industries.
 
-### [4]  Professional Outcomes
+### [4] Professional Outcomes
 
 - Internships: Embedded in the program.
 
