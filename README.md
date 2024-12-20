@@ -1,3 +1,11 @@
+Seeking the right MSc in IBA-related fields
+
+# Introduction
+
+This document serves as a comprehensive guide to selecting the ideal Master of Science (MSc) program in International Business Administration (IBA) and related fields. It is a deep-dive exploration of all considerations, benefits, and drawbacks to ensure the best possible choice. The goal is to create a balanced, well-informed decision-making process by compiling a global list of top programs and analyzing their academic, monetary, cultural, and professional aspects.
+
+---
+
 # Programs of Interest
 
 ### Master of Business Administration (MBA)
