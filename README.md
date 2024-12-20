@@ -4,11 +4,10 @@
 
 This document serves as a comprehensive guide to selecting the ideal Master of Science (MSc) program in International Business Administration (IBA) and related fields. It is a deep-dive exploration of all considerations, benefits, and drawbacks to ensure the best possible choice. The goal is to create a balanced, well-informed decision-making process by compiling a global list of top programs and analyzing their academic, monetary, cultural, and professional aspects.
 
----
 
 ## Key Considerations
 
-### 1. Academic Excellence
+### [1]  Academic Excellence
 
 - Curriculum: Alignment with career goals.
 
@@ -16,7 +15,7 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 - Reputation: Rankings and alumni achievements.
 
-### 2. Financial Factors
+### [2]  Financial Factors
 
 - Tuition Fees: Cost vs. value.
 
@@ -24,7 +23,7 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 - Living Expenses: Cost of living in host city/country.
 
-### 3. Cultural Experience
+### [3]  Cultural Experience
 
 - Location: Language, lifestyle, and cultural exposure.
 
@@ -32,7 +31,7 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 - Networking Opportunities: Connections with peers and local industries.
 
-### 4. Professional Outcomes
+### [4]  Professional Outcomes
 
 - Internships: Embedded in the program.
 
@@ -40,7 +39,6 @@ This document serves as a comprehensive guide to selecting the ideal Master of S
 
 - Alumni Network: Active and resourceful.
 
----
 
 ## Programs of Interest
 
